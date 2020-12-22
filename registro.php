@@ -32,7 +32,7 @@
         } else {
             echo '<script>
                     alert("Te registraste exitosamente!!");
-                    window.location.href = "index.php";
+                    window.location.href = "404.html";
                 </script>'; // Ingreso de la cuenta
         }
         mysqli_close($conexion);
