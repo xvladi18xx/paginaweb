@@ -1,5 +1,5 @@
 <?php
-     include 'conexion_mysql.php';
+     include 'conexion_mysql1.php';
 
     $email = $_POST["Email"];
     $Name = $_POST["Name"];
